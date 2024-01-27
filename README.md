@@ -25,7 +25,7 @@ Unordered
   [Link_text](https://nehmtech.com
 
   Adding an Image
-  ![Alt text](paste the image path here)
+  ![Alt text]
 
   code
   'code'
