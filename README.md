@@ -28,7 +28,7 @@ Unordered
   ![Alt text](paste the image path here)
 
   code
-  'code' (single line code)
+  'code'
 
   '''python
 
